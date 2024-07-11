@@ -8,7 +8,7 @@ Univariate analysis refer to the analysis of a single variable. The main purpose
 
 Let us take the 'Melbourne Housing' dataset and work on that for the univariate analysis.
 
-Contents:
+**Contents:**
  
 Import necessary libraries and Load Data
 
