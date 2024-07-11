@@ -11,11 +11,17 @@ Let us take the 'Melbourne Housing' dataset and work on that for the univariate 
 Contents:
  
 Import necessary libraries and Load Data
+
 Univariate Data Analysis
+
 Checking distribution of data - distplot, violin plot, histograms, commulative distributions
+
 Multivariate Data Analysis
+
 Encoding Categorical Variables - One-hot encoding and label encoding
+
 Normalization and Scaling
+
 
 
 
