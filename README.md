@@ -23,6 +23,8 @@ The following plots are not limited to the headings they are under. They are the
 
 
 Data Source - https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016 
+
+
 Dataset Feature List, country, year, sex, age, suicides_no population, suicides/100k pop, country-year, HDI for year, gdp_for_year, gdp_per_capita generation.
 
 
