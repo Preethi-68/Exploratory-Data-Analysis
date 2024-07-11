@@ -3,6 +3,21 @@
 This Exploratory Data Analysis (EDA) project aims is to delve into global suicide rates data to uncover patterns, trends, and potential factors contributing to suicide rates across different countries and demographics.
 By leveraging statistical and data visualization techniques, this project seeks to provide a comprehensive overview of the data, identify key insights, and highlight areas that may warrant further investigation or intervention.
 
+### Univariate Analysis
+Univariate analysis refer to the analysis of a single variable. The main purpose of univariate analysis is to summarize and find patterns in the data. The key point is that there is only one variable involved in the analysis.
+
+Let us take the 'Melbourne Housing' dataset and work on that for the univariate analysis.
+
+Contents:
+ 
+Import necessary libraries and Load Data
+Univariate Data Analysis
+Checking distribution of data - distplot, violin plot, histograms, commulative distributions
+Multivariate Data Analysis
+Encoding Categorical Variables - One-hot encoding and label encoding
+Normalization and Scaling
+
+
 
 ### Bivariate Analysis
 
